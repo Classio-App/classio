@@ -1,6 +1,15 @@
-{
-  "activities": [
-    "Atividade 1 - Setembro, mês da primavera",
-    "Atividade 2 - Concurso de leitura"
-  ]
-}
+[
+  "Atividade de Janeiro",
+  "Atividade de Fevereiro",
+  "Atividade de Março",
+  "Atividade de Abril",
+  "Atividade de Maio",
+  "Atividade de Junho",
+  "Atividade de Julho",
+  "Atividade de Agosto",
+  "Atividade de Setembro",
+  "Atividade de Outubro",
+  "Atividade de Novembro",
+  "Atividade de Dezembro (até 24)",
+  "Atividade de Dezembro (25-31 / ano-novo)"
+]
