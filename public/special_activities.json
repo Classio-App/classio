@@ -1,15 +1,54 @@
 [
-  ["Atividade Jan A", "Atividade Jan B"],
-  "Atividade de Fevereiro",
-  ["Ativ Março 1", "Ativ Março 2"],
-  "Atividade Abril",
-  "Atividade Maio",
-  "Atividade Junho",
-  "Atividade Julho",
-  "Atividade Agosto",
-  ["Atividade de Primavera", "Outra de Setembro"],
-  "Atividade Outubro",
-  "Atividade Novembro",
-  "Atividade de Dezembro até 24",
-  "Atividade de Dezembro 25-31"
+  [
+    "Um novo se iniciou! - planejamento anual",
+    "Oficina: Hábito de estudo (técnicas básicas)"
+  ],
+  [
+    "Desafio: Mini-experimento de leitura",
+    "Atividade: Diário de aprendizagem (7 dias)"
+  ],
+  [
+    "Projeto: Pesquisa rápida (tema livre)",
+    "Atividade: Quiz de revisão de conceitos"
+  ],
+  [
+    "Oficina: Produção de texto curto",
+    "Atividade: Exercício de interpretação com imagem"
+  ],
+  [
+    "Projeto: Mapear 5 livros interessantes",
+    "Atividade: Resenha curta sobre leitura recente"
+  ],
+  [
+    "Desafio: Micro-projeto científico",
+    "Oficina: Anotações eficientes"
+  ],
+  [
+    "Atividade: Mini-hack de criatividade",
+    "Projeto: Montar um portfólio simples"
+  ],
+  [
+    "Atividade: Debate em pequenos grupos (tema escolar)",
+    "Oficina: Planejamento de estudo semanal"
+  ],
+  [
+    "Atividade de Primavera: Explorar um texto poético",
+    "Projeto: Criar uma apresentação sobre um autor local"
+  ],
+  [
+    "Atividade: Construir um infográfico sobre um tema estudado",
+    "Desafio: Responder 10 perguntas em tempo limitado"
+  ],
+  [
+    "Atividade: Preparar lista de leitura para o mês",
+    "Projeto: Elaborar uma sugestão de atividade para colegas"
+  ],
+  [
+    "Atividade: Especial – Dezembro (até dia 24): Retrospectiva de aprendizado",
+    "Oficina: Criar um mural de conquistas do ano"
+  ],
+  [
+    "Atividade Festiva: Dezembro (25-31) – Desafio de Ano-Novo: planejar objetivos de estudo para o próximo ano",
+    "Atividade Opcional: Mensagem & meta pessoal para 2026"
+  ]
 ]
